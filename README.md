@@ -1,3 +1,9 @@
 # AlgorithmMl
 这个是关于机器学习的一些代码实例，大部分代码来源于北京尚学堂，他们的代码提供免费下载
 ##algorithm/linear_regression 代码为两种方式实现了线性回归进行预测
+##gloom_linear_regression是使用线性代数解析解的方式进行线性回归模型的建立
+##gloom_linear_regression_sklearn是使用sklearn算法包进行线性回归模型的建立
+##lasso_regression是使用lasso方式进行线性回归模型的建立
+##ridge_regression是使用岭回顾方式进行线性回归模型的建立
+##elastic_net_search是使用栅格搜索的方式进行模型的建立
+##batch_gradient_descent是使用梯度下降的方式进行线性回归模型的建立
