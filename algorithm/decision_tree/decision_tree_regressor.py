@@ -2,6 +2,8 @@ import numpy as np
 from sklearn.tree import DecisionTreeRegressor
 import matplotlib.pyplot as plt
 
+__author__ = 'gloom'
+"""这是一个最简单的决策树"""
 def main():
     #生成列向量的数量
     N = 100
